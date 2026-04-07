@@ -27,6 +27,7 @@
 **Additional information:**
 
 - My goal is to learn how to make beautiful websites, but unfortunately there is zero experience right now.
+- I studied German at the lyceum, and I got my programming knowledge there.
 
 ## Навыки {#skills}
 
