@@ -39,7 +39,7 @@ I am proficient in python, Pascal, and a bit of C++ programming languages.
 
 **Example of work:**
 
-
+```python
 name = input("Введите ваше имя: ")
 birth_year = int(input("Введите год вашего рождения: "))
 current_year = 2026
