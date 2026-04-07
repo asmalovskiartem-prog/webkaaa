@@ -1,1 +1,1 @@
-https://asmalovskiartem-prog.github.io/webkaaa/cv
+https://asmalovskiartem-prog.github.io/webkaaa/cv.md
